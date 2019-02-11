@@ -1,3 +1,6 @@
+### POINTS: .5
+### KEY: No submission for CW2. CW1 counts were hardcoded and selectors for <p>s were incorrect. Good comments though.
+
 # Review: JavaScript/jQuery
 
 ### Exercise 1: Selectors
